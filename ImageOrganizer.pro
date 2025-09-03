@@ -10,13 +10,13 @@ CONFIG += c++17
 
 SOURCES += \
     main.cpp \
-    mainwindow.cpp
+    imageorganizerwindow.cpp
 
 HEADERS += \
-    mainwindow.h
+    imageorganizerwindow.h
 
 FORMS += \
-    mainwindow.ui
+    imageorganizerwindow.ui
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin

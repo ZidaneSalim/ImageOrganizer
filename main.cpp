@@ -1,4 +1,4 @@
-#include "mainwindow.h"
+#include "imageorganizerwindow.h"
 
 #include <QApplication>
 
